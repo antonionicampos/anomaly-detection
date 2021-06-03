@@ -1,3 +1,7 @@
 archive.zip
 data/
+
+.vscode/
+
+__pycache__/
 .ipynb_checkpoints/
